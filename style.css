@@ -6,6 +6,7 @@ body{
 .container {
     margin: 20px auto;
     width: 80%;
+    background-color:rgba(26, 26, 28, 1);
 }
 
 table {

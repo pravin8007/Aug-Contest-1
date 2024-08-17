@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
             clearTimeout(debounceTimeout);
             searchByName();
         }
-    });
+    })
 });
 
 async function fetchData() {
